@@ -1,7 +1,6 @@
 package com.example.demo;
 
 import org.apache.camel.CamelContext;
-import org.apache.camel.builder.RouteBuilder;
 import org.apache.camel.impl.DefaultCamelContext;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import router.MyRouteBuilder;
